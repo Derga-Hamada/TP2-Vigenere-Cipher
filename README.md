@@ -29,8 +29,6 @@ Below is the console output showing the encryption process. Note how the interce
 
 <img width="1895" height="992" alt="CLIENT" src="https://github.com/user-attachments/assets/8ac2a5dd-1063-4a31-b807-2ed53f16dbf1" />
 
-![Application Demo](screenshots/demo.png)
-
 ## 🚀 How to Run
 1.  **Compile the source:**
     ```bash
