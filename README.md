@@ -25,9 +25,8 @@ The system ensures confidentiality by encrypting messages locally before transmi
 ## 📸 Demonstration
 Below is the console output showing the encryption process. Note how the intercepted traffic (in brackets) is unreadable:
 
-<img width="1918" height="1026" alt="SERVER" src="https://github.com/user-attachments/assets/1334ec52-c2c7-4db3-9a56-8664a62bf236" />
+<img width="1918" height="1010" alt="Screenshot 2026-02-05 153244" src="https://github.com/user-attachments/assets/46707fef-c50e-4d2a-a970-34bfe13d80dc" />
 
-<img width="1895" height="992" alt="CLIENT" src="https://github.com/user-attachments/assets/8ac2a5dd-1063-4a31-b807-2ed53f16dbf1" />
 
 ## 🚀 How to Run
 1.  **Compile the source:**
